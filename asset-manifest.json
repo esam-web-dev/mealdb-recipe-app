@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mealdb-recipe-app/static/css/main.a557d6ee.css",
-    "main.js": "/mealdb-recipe-app/static/js/main.3ffd030e.js",
+    "main.js": "/mealdb-recipe-app/static/js/main.a3b6b652.js",
     "static/media/header_image.jpg": "/mealdb-recipe-app/static/media/header_image.1dc0f346d407fc577d16.jpg",
     "index.html": "/mealdb-recipe-app/index.html",
     "static/media/loader.svg": "/mealdb-recipe-app/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
     "main.a557d6ee.css.map": "/mealdb-recipe-app/static/css/main.a557d6ee.css.map",
-    "main.3ffd030e.js.map": "/mealdb-recipe-app/static/js/main.3ffd030e.js.map"
+    "main.a3b6b652.js.map": "/mealdb-recipe-app/static/js/main.a3b6b652.js.map"
   },
   "entrypoints": [
     "static/css/main.a557d6ee.css",
-    "static/js/main.3ffd030e.js"
+    "static/js/main.a3b6b652.js"
   ]
 }
